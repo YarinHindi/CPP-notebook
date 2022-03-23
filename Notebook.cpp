@@ -14,6 +14,7 @@ using namespace std;
     void  Notebook::init_row( int page,  int row) const {
         int a = this->MyNotebook.size();
         cout<<a;
+
 //        try {
 //            this->MyNotebook.at(page).at(row);
 //
